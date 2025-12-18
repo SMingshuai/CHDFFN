@@ -1,2 +1,2 @@
 # CHDFFN
-Hyperspectral Change Detection
+Hyperspectral Change Detection（HCD）： The source code of this paper will be made public soon.
